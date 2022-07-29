@@ -3,7 +3,7 @@ on:
     branches:
       - main
       - master
-  push_request:
+  push:
     branches:
       - main
       - master
